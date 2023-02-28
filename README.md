@@ -12,11 +12,11 @@
 
 ## Instalation
 ```Shell
-git clone https://github.com/kawasaji/iris_calc_telegram_bot
-cd iris_calc_telegram_bot
+git clone https://github.com/kawasaji/togir
+cd togir
 pip install -r requirements.txt
 ```
 
 ## Usage
 
-Run `python -m main` to start bot.
+Run `python -m start` to start bot.
