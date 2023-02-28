@@ -22,14 +22,9 @@ sys.path.insert(1, 'Package/photos')
 sys.path.insert(1, 'Package')
 
 from math import *
-
-import aiogram
 from aiogram import *
-from aiogram import Bot, Dispatcher, executor
+from aiogram import Bot, Dispatcher
 import sqlite3
-import asyncio
-
-from datetime import datetime
 
 
 API_TOKEN = '5935466932:AAEI3myOJ_5Bv2oDmrSIEwA8AvP9ELVrqjw'

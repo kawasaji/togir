@@ -1,15 +1,11 @@
 from aiogram import *
 from aiogram import types
 import sys
-import sqlite3
 
 sys.path.insert(1, 'Package/services')
 sys.path.insert(1, 'Package')
 
 from main import *
-
-import time
-from datetime import datetime
 
 @dp.message_handler(commands=['start'], commands_prefix='!/.')
 async def start(message: types.Message):
