@@ -9,3 +9,14 @@
 [![DeepSource](https://deepsource.io/gh/kawasaji/togir.svg/?label=active+issues&show_trend=true&token=brldH5q8_pr92jBBrWboJ2_h)](https://deepsource.io/gh/kawasaji/togir/?ref=repository-badge)
 
 [![DeepSource](https://deepsource.io/gh/kawasaji/togir.svg/?label=resolved+issues&show_trend=true&token=brldH5q8_pr92jBBrWboJ2_h)](https://deepsource.io/gh/kawasaji/togir/?ref=repository-badge)
+
+## Instalation
+```Shell
+git clone https://github.com/kawasaji/iris_calc_telegram_bot
+cd iris_calc_telegram_bot
+pip install -r requirements.txt
+```
+
+## Usage
+
+Run `python -m main` to start bot.
